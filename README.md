@@ -8,14 +8,14 @@ Prerequisites
 Node.js (v16 or higher)
 npm (v8 or higher)
 
-Installation
+### Installation
 
 Clone the repository:
-git clone <repository-url>
+git clone <https://github.com/NietoDeveloper/FullStack_E-Commerce>
 
 
 Navigate to the project root:
-cd <project-directory>
+cd <FullStack_E-Commerce>
 
 
 Install server dependencies:
@@ -28,7 +28,7 @@ npm install
 
 
 
-Running the Application
+### Running the Application
 
 Start the server from the root directory:
 npm start
@@ -42,7 +42,7 @@ npm start
 Access the application at http://localhost:3000 (or the specified port).
 
 
-Project Structure
+### Project Structure
 
 /client: React frontend code
 /: Node.js server code and configuration
