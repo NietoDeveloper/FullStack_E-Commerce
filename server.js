@@ -12,8 +12,6 @@ dotenv.config();
 
 connectDB();
 
-
-//rest object
 const app = express();
 
 //middelwares
