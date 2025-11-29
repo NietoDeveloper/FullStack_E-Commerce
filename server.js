@@ -14,7 +14,6 @@ connectDB();
 
 const app = express();
 
-//middelwares
 app.use(cors());
 
 app.use(express.json());
