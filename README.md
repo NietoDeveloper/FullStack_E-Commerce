@@ -322,7 +322,3 @@ flowchart LR
 | ⚙️ **Backend** | Node.js |
 | 🔧 **Version Control** | Git / GitHub |
 
-</div>
-
----
-
