@@ -22,9 +22,6 @@ Install server dependencies:
 npm install
 
 
-Start the server from the root directory:
-npm start
-
 
 Start the client from the client folder:
 cd client
