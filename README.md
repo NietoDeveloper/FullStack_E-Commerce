@@ -385,8 +385,3 @@ Access the application at `http://localhost:3000` (or the specified port).
 - **`/`:** Node.js server code and configuration.
 - **`/public`:** Static assets (if applicable).
 - **`/src`:** Client-side source code.
-
----
-
-## 📜 Available Scripts
- Command | Description |
