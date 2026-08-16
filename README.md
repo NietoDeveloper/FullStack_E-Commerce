@@ -14,5 +14,3 @@ Clone the repository:
 git clone <https://github.com/NietoDeveloper/FullStack_E-Commerce>
 
 
-Navigate to the project root:
-cd <FullStack_E-Commerce>
