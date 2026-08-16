@@ -21,8 +21,3 @@ cd <FullStack_E-Commerce>
 Install server dependencies:
 npm install
 
-
-
-Start the client from the client folder:
-cd client
-npm start
