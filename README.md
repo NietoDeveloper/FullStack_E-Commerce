@@ -354,8 +354,3 @@ npm install
 ```
 
 **Step 4 — Install client dependencies**
-
-```bash
-cd client
-npm install
-```
