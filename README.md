@@ -37,7 +37,7 @@ npm test: Runs server-side tests (if configured)
 
 npm start: Runs the React development server
 npm build: Builds the React app for production
-npm test: Runs client-side tests
+
 
 License
 MIT
