@@ -2,4 +2,4 @@
 
 A web application built with React, Node.js, and JavaScript.
 Overview
-This project consists of a client-side React application andode.
+This project consists of a clplication andode.
