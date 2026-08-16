@@ -262,25 +262,3 @@ This project is licensed under the **MIT License**.
 A **web application** built with **React**, **Node.js**, and JavaScript. This project consists of a client-side React application and a Node.js server. The client is located in the `client` folder, while the server and general instructions are in the root directory.
 
 ---
-
-## 🗂️ Project Structure
-
-```text
-FullStack_E-Commerce/
-├── client/                # React frontend
-│   ├── public/
-│   │   └── images/
-│   └── src/
-│       ├── components/
-│       │   ├── Form/
-│       │   ├── Layout/
-│       │   └── Routes/
-│       ├── context/
-│       ├── hooks/
-│       ├── pages/
-│       │   ├── Admin/
-│       │   ├── Auth/
-│       │   └── user/
-│       └── styles/
-├── config/                 # Server configuration
-├── controllers/             # Business logic handlers
