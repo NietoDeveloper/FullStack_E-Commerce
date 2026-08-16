@@ -359,7 +359,3 @@ npm install
 cd client
 npm install
 ```
-
-### Running the Application
-
-**Start the server** from the root directory:
