@@ -19,5 +19,3 @@ cd <FullStack_E-Commerce>
 
 
 Install server dependencies:
-npm install
-
