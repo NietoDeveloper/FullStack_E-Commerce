@@ -401,9 +401,3 @@ Access the application at `http://localhost:3000` (or the specified port).
 
 | Command | Description |
 |:--------|:-------------|
-| `npm start` | Runs the React development server |
-| `npm build` | Builds the React app for production |
-| `npm test` | Runs client-side tests |
-
----
-
