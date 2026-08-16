@@ -372,6 +372,3 @@ npm start
 
 ```bash
 cd client
-npm start
-```
-
