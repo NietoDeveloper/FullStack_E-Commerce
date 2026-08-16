@@ -407,9 +407,3 @@ Access the application at `http://localhost:3000` (or the specified port).
 
 ---
 
-## 👨‍💻 Author
-
-**Manuel Nieto** — Software Developer
-
-
-</div>
