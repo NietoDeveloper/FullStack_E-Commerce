@@ -305,17 +305,3 @@ flowchart LR
     G -->|Response| H([📦 Storefront / Admin View])
 
     style A fill:#FFD700,color:#000,stroke:#FFD700
-    style E fill:#0a0a0a,color:#FFD700,stroke:#FFD700
-    style G fill:#47A248,color:#fff,stroke:#47A248
-    style H fill:#000,color:#FFD700,stroke:#FFD700
-```
-
----
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-| Layer | Technologies |
-|:------|:-------------|
-| 🎨 **Frontend** | React, JavaScript |
