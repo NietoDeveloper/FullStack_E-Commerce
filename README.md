@@ -32,9 +32,7 @@ Access the application at http://localhost:3000 (or the specified
 
 
 /client: React frontend code
-/: Node.js server code and configuration
-/public: Static assets (if applicable)
-/src: Client-side source code
+
 
 Available Scripts
 In the root directory:
