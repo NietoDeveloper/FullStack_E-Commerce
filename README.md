@@ -11,6 +11,3 @@ npm (v8 or higher)
 ### Installation
 
 Clone the repository:
-git clone <https://github.com/NietoDeveloper/FullStack_E-Commerce>
-
-
