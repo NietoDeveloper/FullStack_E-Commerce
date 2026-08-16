@@ -383,5 +383,3 @@ Access the application at `http://localhost:3000` (or the specified port).
 
 - **`/client`:** React frontend code.
 - **`/`:** Node.js server code and configuration.
-- **`/public`:** Static assets (if applicable).
-- **`/src`:** Client-side source code.
