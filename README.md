@@ -34,7 +34,6 @@ Access the application at http://localhost:3000 (or the specified
 npm start: Runs the Node.js server
 npm test: Runs server-side tests (if configured)
 
-In the client directory:
 
 npm start: Runs the React development server
 npm build: Builds the React app for production
