@@ -319,6 +319,3 @@ flowchart LR
 | Layer | Technologies |
 |:------|:-------------|
 | 🎨 **Frontend** | React, JavaScript |
-| ⚙️ **Backend** | Node.js |
-| 🔧 **Version Control** | Git / GitHub |
-
