@@ -31,8 +31,6 @@ npm start
 Access the application at http://localhost:3000 (or the specified 
 
 
-### Project Structure
-
 /client: React frontend code
 /: Node.js server code and configuration
 /public: Static assets (if applicable)
