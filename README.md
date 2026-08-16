@@ -380,5 +380,3 @@ Access the application at `http://localhost:3000` (or the specified port).
 ---
 
 ## 🗂️ Project Structure Notes
-
-- **`/client`:** React frontend code.
