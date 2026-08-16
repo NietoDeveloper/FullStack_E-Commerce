@@ -291,17 +291,3 @@ FullStack_E-Commerce/
 ```
 
 ---
-
-## 🔄 Application Flow
-
-```mermaid
-flowchart LR
-    A([👤 User]) -->|Auth / Browse| B[React Client]
-    B -->|API Request| C[Routes]
-    C --> D[Middlewares]
-    D --> E[Controllers]
-    E -->|Helpers| F[Business Logic]
-    E -->|CRUD| G[(Models\nDatabase)]
-    G -->|Response| H([📦 Storefront / Admin View])
-
-    style A fill:#FFD700,color:#000,stroke:#FFD700
