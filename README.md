@@ -1,2 +1,2 @@
 ## Full Stac
-Ab application built with React, NodeJavaScript.
+Ab application built with Reac
