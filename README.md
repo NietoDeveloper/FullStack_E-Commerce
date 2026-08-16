@@ -245,20 +245,3 @@ This project is licensed under the **MIT License**.
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NietoDeveloper/FullStack_E-Commerce">
-    <img src="https://img.shields.io/badge/📂_Source-NietoDeveloper%2FFullStack__E--Commerce-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
-  </a>
-</p>
-
-</div>
-
----
-
-## 📋 Overview
-
-A **web application** built with **React**, **Node.js**, and JavaScript. This project consists of a client-side React application and a Node.js server. The client is located in the `client` folder, while the server and general instructions are in the root directory.
-
----
