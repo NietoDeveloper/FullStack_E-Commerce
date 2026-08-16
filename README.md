@@ -6,8 +6,3 @@ This project consists of a client-side React application and a Node.js server. T
 Prerequisites
 
 Node.js (v16 or higher)
-npm (v8 or higher)
-
-### Installation
-
-Clone the repository:
