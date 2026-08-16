@@ -363,12 +363,3 @@ npm install
 ### Running the Application
 
 **Start the server** from the root directory:
-
-```bash
-npm start
-```
-
-**Start the client** from the client folder:
-
-```bash
-cd client
