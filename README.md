@@ -337,20 +337,3 @@ flowchart LR
 
 **Step 1 — Clone the repository**
 
-```bash
-git clone https://github.com/NietoDeveloper/FullStack_E-Commerce
-```
-
-**Step 2 — Navigate to the project root**
-
-```bash
-cd FullStack_E-Commerce
-```
-
-**Step 3 — Install server dependencies**
-
-```bash
-npm install
-```
-
-**Step 4 — Install client dependencies**
