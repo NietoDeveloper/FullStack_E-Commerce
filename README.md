@@ -1,2 +1,2 @@
-## Full Stack E-Com
+## Full Stac
 Ab application built with React, NodeJavaScript.
