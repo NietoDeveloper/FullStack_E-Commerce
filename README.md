@@ -395,4 +395,3 @@ Access the application at `http://localhost:3000` (or the specified port).
 | Command | Description |
 |:--------|:-------------|
 | `npm start` | Runs the Node.js server |
-| `npm test` | Runs server-side tests (if configured) |
