@@ -23,8 +23,7 @@ npm install
 
 
 Navigate to the client folder and install client dependencies:
-cd client
-npm insta
+
 
 
 
