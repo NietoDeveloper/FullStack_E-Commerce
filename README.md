@@ -284,10 +284,3 @@ FullStack_E-Commerce/
 │       └── styles/
 ├── config/                 # Server configuration
 ├── controllers/             # Business logic handlers
-├── helpers/                  # Helper functions
-├── middlewares/                # Express middlewares
-├── models/                       # Database models
-└── routes/                        # RESTful API endpoints
-```
-
----
