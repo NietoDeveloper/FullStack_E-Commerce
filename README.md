@@ -331,9 +331,3 @@ flowchart LR
 ### Prerequisites
 
 - Node.js (v16 or higher)
-- npm (v8 or higher)
-
-### Installation
-
-**Step 1 — Clone the repository**
-
