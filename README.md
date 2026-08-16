@@ -411,10 +411,5 @@ Access the application at `http://localhost:3000` (or the specified port).
 
 **Manuel Nieto** — Software Developer
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 </div>
