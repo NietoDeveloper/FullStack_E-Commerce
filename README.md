@@ -389,7 +389,4 @@ Access the application at `http://localhost:3000` (or the specified port).
 ---
 
 ## 📜 Available Scripts
-
-**In the root directory:**
-
-| Command | Description |
+ Command | Description |
